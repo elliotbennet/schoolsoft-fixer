@@ -12,4 +12,4 @@ Add to chrome
 License
 -----
 This project is licensed under the MIT License.
-See `LICENSE`file for more info.
+See the `LICENSE` file for more information.
