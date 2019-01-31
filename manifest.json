@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "SchoolSoft Fixer",
+  "version": "0.1.0",
+  "description": "Make SchoolSoft beautiful again",
+ 
+  "content_scripts": [{
+    "css": ["login.css"],
+    "js": ["login.js"],
+		"matches": ["https://sms1.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms2.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms3.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms4.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms5.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms6.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms7.schoolsoft.se/*/jsp/Login.jsp*",
+								"https://sms8.schoolsoft.se/*/jsp/Login.jsp*"]
+	}]
+ 
+}
