@@ -4,6 +4,12 @@ Download
 -----
 ```git clone [repo]```
 
+Updating
+-----
+```cd [folder]```
+```git pull```
+Example ```cd Desktop/schoolsoft-fixer```
+
 Add to chrome
 -----
 1. Navigate to ```chrome://extensions``` in your Chrome Browser
