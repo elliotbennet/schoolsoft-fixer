@@ -20,7 +20,7 @@ document.body.innerHTML = `
 	<div class="color-overlay"></div>
 	<div class="container">
 		<form class="form login-form" name="userForm" action="Login.jsp" method="post">
-			<h1>Sign In</h1>
+			<h1>SchoolSoft</h1>
 			<input type="hidden" name="action" class="hidden" id="action" value="login" />
 			<input type="hidden" name="schoolfavorite" class="hidden" id="schoolfavorite" value="1" />
 			<select style="visibility: hidden" name="usertype" size="1" id="usertype" class="select1">
