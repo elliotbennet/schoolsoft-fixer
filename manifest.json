@@ -9,13 +9,14 @@
     "css": ["login.css"],
     "js": ["login.js"],
 		"matches": ["https://sms1.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms2.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms3.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms4.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms5.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms6.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms7.schoolsoft.se/*/jsp/Login.jsp*",
-								"https://sms8.schoolsoft.se/*/jsp/Login.jsp*"]
+					"https://sms2.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms3.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms4.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms5.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms6.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms7.schoolsoft.se/*/jsp/Login.jsp*",
+					"https://sms8.schoolsoft.se/*/jsp/Login.jsp*",
+				  	"https://sms.schoolsoft.se/*/jsp/Login.jsp*"]
 	}]
  
 }
