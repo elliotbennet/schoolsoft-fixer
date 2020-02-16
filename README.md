@@ -1,21 +1,19 @@
-# schoolsoft-fixer
+# Schoolsoft Fixer
+Due to SchoolSoft's **horrific** User Interface and design, combined with the inept software company's inability to code simple CSS, I've decided to take matters into my own hands. This project is a **Google Chrome Extension** and will *fix* the following pages
 
-Download
------
-```git clone [repo]```
+# Examples
+Below you will find examples of pages before and after the installation of the extension.
 
-Updating
------
-```cd [folder]```
-```git pull```
-Example ```cd Desktop/schoolsoft-fixer```
+## Login Page
+![Login Before](./examples/login-before.png)
+![Login After](./examples/login-after.png)
 
-Add to chrome
------
-1. Navigate to ```chrome://extensions``` in your Chrome Browser
-2. Drag and drop the folder schoolsoft-fixer into the window.
+## How to use
+1) ```$ git clone <repo>``` or update existing download ```$ git pull```.
+2) Navigate to ```chrome://extensions``` in your Chrome browser.
+3) Click **Load unpacked** and select the schoolsoft-fixer folder.
+4) Restart your browser.
 
-License
------
+## License
 This project is licensed under the MIT License.
 See the `LICENSE` file for more information.
